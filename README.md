@@ -1,7 +1,7 @@
 ### Olá eu sou Isaque Efraim, sou de São Paulo.
 
 
-- 🔭 Quero me tornar um desenvolvedor front end
+- 🔭 Quero me tornar um desenvolvedor web
 - 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro Do Sul Virtual
 - 🌱 Estou estudanto HTML, CSS e JavaScript na Digital Innovation One
 
