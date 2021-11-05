@@ -3,7 +3,7 @@
 
 - 🔭 Quero me tornar um desenvolvedor web
 - 🎓 Estou atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro Do Sul Virtual
-- 🌱 Estou estudanto HTML, CSS e JavaScript na Digital Innovation One
+- 🌱 Estou estudanto HTML, CSS e JavaScript na Rocketseat
 
 
 <h3 align="left">Contato:</h3>
